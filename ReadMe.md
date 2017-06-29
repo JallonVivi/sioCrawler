@@ -28,3 +28,8 @@ Le développement tourne autour de 3 grandes parties
 | Inscription en ligne   | PHP, MySql  | développement web MVC avec Code Igniter                  |
 | Sio crawler le jeu     | C#		   | programmation objet, tests unitaires                     |
 | Sauvegarde du contexte | C#, MySql   | programmation procédural procédures stockées en mysql    |
+
+
+## L'inscription en ligne ##
+site web permettant à un joueur de s'inscrire en ligne. le projet prévoit le principe suivant pour l'inscription en ligne. 
+[acteurFluxInscription.PNG](E:\images\acteurFluxInscription.PNG)
