@@ -32,4 +32,4 @@ Le développement tourne autour de 3 grandes parties
 
 ## L'inscription en ligne ##
 site web permettant à un joueur de s'inscrire en ligne. le projet prévoit le principe suivant pour l'inscription en ligne. 
-![acteurFiption.PNG](E:\images\acteurFluxInscription.PNG)
+!(E:\images\acteurFluxInscription.PNG)
