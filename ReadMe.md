@@ -35,8 +35,8 @@ site web permettant à un joueur de s'inscrire en ligne. le projet prévoit le pri
 ![acteurFluxInscription.PNG](https://github.com/JallonVivi/sioCrawler/blob/master/acteurFluxInscription.PNG)
 ## sio crawler le jeu ##
 ** le joueur possédera les fonctionnalités suivantes **
-![useCasePersonnage.PNG](https://github.com/JallonVivi/sioCrawler/blob/master/acteurFluxInscription.PNG)
+![useCasePersonnage.PNG](https://github.com/JallonVivi/sioCrawler/blob/master/useCasePersonnage.PNG)
 ** les classes développées **
-![diagrammeClassePersonnage.PNG](https://github.com/JallonVivi/sioCrawler/blob/master/acteurFluxInscription.PNG)
+![diagrammeClassePersonnage.PNG](https://github.com/JallonVivi/sioCrawler/blob/master/diagrammeClassePersonnage.PNG)
 ## sauvegarde du contexte ##
-![mcdSauvegarde.PNG](https://github.com/JallonVivi/sioCrawler/blob/master/acteurFluxInscription.PNG)
+![mcdSauvegarde.PNG](https://github.com/JallonVivi/sioCrawler/blob/master/mcdSauvegarde.PNG)
