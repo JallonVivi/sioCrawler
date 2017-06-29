@@ -23,8 +23,8 @@ Le développement tourne autour de 3 grandes parties
 
 
 
-| Developpement          | Langage     | Technique deprogrammation                               |
-| ---------------------- | :---------: | ------------------------------------------------------: |
-| Inscription en ligne   | PHP, MySql  | développement web MVC avec Code Igniter                 |
-| Sio crawler le jeu     | C#		   | programmation objet, tests unitaires                    |
-| Sauvegarde du contexte | C#, MySql   | programmation procédural procédures stockées en mysql   |
+| Developpement          | Langage     | Technique deprogrammation                                |
+| ---------------------- | :---------: | :------------------------------------------------------: |
+| Inscription en ligne   | PHP, MySql  | développement web MVC avec Code Igniter                  |
+| Sio crawler le jeu     | C#		   | programmation objet, tests unitaires                     |
+| Sauvegarde du contexte | C#, MySql   | programmation procédural procédures stockées en mysql    |
