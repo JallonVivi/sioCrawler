@@ -34,9 +34,10 @@ Le développement tourne autour de 3 grandes parties
 site web permettant à un joueur de s'inscrire en ligne. le projet prévoit le principe suivant pour l'inscription en ligne. 
 ![acteurFluxInscription.PNG](https://github.com/JallonVivi/sioCrawler/blob/master/acteurFluxInscription.PNG)
 ## sio crawler le jeu ##
-** le joueur possédera les fonctionnalités suivantes **
+**le joueur possédera les fonctionnalités suivantes**
 ![useCasePersonnage.PNG](https://github.com/JallonVivi/sioCrawler/blob/master/useCasePersonnage.PNG)
-** les classes développées **
+
+**les classes développées**
 ![diagrammeClassePersonnage.PNG](https://github.com/JallonVivi/sioCrawler/blob/master/diagrammeClassePersonnage.PNG)
 ## sauvegarde du contexte ##
 ![mcdSauvegarde.PNG](https://github.com/JallonVivi/sioCrawler/blob/master/mcdSauvegarde.PNG)
